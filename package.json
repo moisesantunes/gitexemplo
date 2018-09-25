@@ -1,0 +1,11 @@
+{
+  "name": "gitexemplo",
+  "version": "1.0.0",
+  "description": "um exemplo de uso com git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "moises",
+  "license": "ISC"
+}
